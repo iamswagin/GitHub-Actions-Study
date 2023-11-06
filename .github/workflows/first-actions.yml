@@ -1,5 +1,5 @@
 # This is a sample python project for test
-name: My First GitHub Actions
+name: My First GitHub Actions to test
 
 on: [push]
 
